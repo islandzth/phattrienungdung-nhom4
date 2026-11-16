@@ -21,7 +21,7 @@ Dự án kế thừa mã nguồn có sẵn:
 | Backend & trang quản trị | [worldtravel-charging-backend](https://github.com/vinkent-dev/worldtravel-charging-backend) | Laravel 11, Go (OCPP 1.6), NestJS, PostgreSQL |
 | Ứng dụng di động | [wt-charge-app](https://github.com/islandzth/wt-charge-app) | React Native 0.73, Redux Toolkit |
 
-Trong học phần, nhóm tập trung vào **phần WEB**: cổng web khách hàng (responsive, dùng được trên điện thoại) và trang quản trị. Ứng dụng di động là tài liệu tham chiếu nghiệp vụ, không phải phạm vi phát triển chính. Xem [REQUIREMENTS.md](REQUIREMENTS.md).
+Trong học phần, nhóm tập trung vào **phần WEB/App Cơ bản**: cổng web khách hàng (responsive, dùng được trên điện thoại) và trang quản trị. Ứng dụng di động là tài liệu tham chiếu nghiệp vụ, không phải phạm vi phát triển chính. Xem [REQUIREMENTS.md](REQUIREMENTS.md).
 
 ## 2. Khách hàng mục tiêu
 
@@ -50,11 +50,12 @@ Danh sách đầy đủ và tiêu chí nghiệm thu: [REQUIREMENTS.md](REQUIREME
 
 | # | Họ tên | MSSV | Vai trò |
 |---|---|---|---|
-| 1 | _[Họ tên]_ | _[MSSV]_ | Trưởng nhóm / BA |
-| 2 | _[Họ tên]_ | _[MSSV]_ | UI/UX |
-| 3 | _[Họ tên]_ | _[MSSV]_ | Frontend |
-| 4 | _[Họ tên]_ | _[MSSV]_ | Backend / Database |
-| 5 | _[Họ tên]_ | _[MSSV]_ | QA / Integration |
+| 1 | Trương Anh Quân | 88241020359 | Trưởng nhóm / BA |
+| 2 | Mai Hải Sơn | 87243020286 | UI/UX |
+| 3 | Lê Văn Anh Tài | 88242020351 | Frontend |
+| 4 | Nguyễn Thị Xuân Mai | 88242020349 | Backend / Database |
+| 5 | Đinh Thị Yến Nhi | 88242020348 | QA / Integration |
+| 6 | Vũ Thị Ngọc Ánh | 87243020289 | QA / Integration |
 
 ## 5. Công nghệ dự kiến
 
